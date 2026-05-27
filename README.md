@@ -64,7 +64,7 @@ You need to connect the Java app to your new database.
 // Example configuration
 String url = "jdbc:postgresql://localhost:5432/student_db";
 String user = "postgres";
-String password = "your_password_here";
+String password = "admin123";
 
 ```
 
