@@ -4,6 +4,8 @@ Section: BSIT 2-2
 File Name: YearLevel.java
 */
 
+package com.example;
+
 public enum YearLevel {
 
     FIRST_YEAR,
