@@ -1,7 +1,7 @@
 /*
 Name: Umandap, Sam Matthew B.
 Section: BSIT 2-2
-File Name: YearLevel.java
+File Name: Student.java
 */
 
 package com.example;
